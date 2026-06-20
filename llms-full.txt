@@ -1,0 +1,38 @@
+# Geotechnik — Schwerin
+
+> Geotechnical engineering services in Schwerin, Deutschland.
+
+## Services
+- [Aushub](https://schwerin.geotechnik.sbs/aushub/)
+- [Aushub Monitoring](https://schwerin.geotechnik.sbs/aushub-monitoring/)
+- [Bodenplatten](https://schwerin.geotechnik.sbs/bodenplatten/)
+- [Bodenverbesserung](https://schwerin.geotechnik.sbs/bodenverbesserung/)
+- [Cbr Strasse](https://schwerin.geotechnik.sbs/cbr-strasse/)
+- [Cpt Versuch](https://schwerin.geotechnik.sbs/cpt-versuch/)
+- [Erdbebenisolierung](https://schwerin.geotechnik.sbs/erdbebenisolierung/)
+- [Flexibler Belag](https://schwerin.geotechnik.sbs/flexibler-belag/)
+- [Fundamente](https://schwerin.geotechnik.sbs/fundamente/)
+- [Geophysik](https://schwerin.geotechnik.sbs/geophysik/)
+- [Grundungen](https://schwerin.geotechnik.sbs/grundungen/)
+- [In Situ Durchlassigkeit](https://schwerin.geotechnik.sbs/in-situ-durchlassigkeit/)
+- [Injektionen](https://schwerin.geotechnik.sbs/injektionen/)
+- [Labor In Situ](https://schwerin.geotechnik.sbs/labor-in-situ/)
+- [Pfahle](https://schwerin.geotechnik.sbs/pfahle/)
+- [Sandkegel Dichte](https://schwerin.geotechnik.sbs/sandkegel-dichte/)
+- [Schottersaulen](https://schwerin.geotechnik.sbs/schottersaulen/)
+- [Seismik](https://schwerin.geotechnik.sbs/seismik/)
+- [Seismische Refraktion](https://schwerin.geotechnik.sbs/seismische-refraktion/)
+- [Spt Bohrung](https://schwerin.geotechnik.sbs/spt-bohrung/)
+- [Starrer Belag](https://schwerin.geotechnik.sbs/starrer-belag/)
+- [Strassenbau](https://schwerin.geotechnik.sbs/strassenbau/)
+- [Tiefe Aushube](https://schwerin.geotechnik.sbs/tiefe-aushube/)
+- [Untersuchung](https://schwerin.geotechnik.sbs/untersuchung/)
+- [Verflussigung](https://schwerin.geotechnik.sbs/verflussigung/)
+- [Widerstand](https://schwerin.geotechnik.sbs/widerstand/)
+
+## Contact
+- Website: https://schwerin.geotechnik.sbs/
+
+## About
+This site provides geotechnical engineering services in Schwerin, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
